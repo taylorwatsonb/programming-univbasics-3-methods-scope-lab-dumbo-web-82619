@@ -8,3 +8,6 @@ def toadstool
   status = "hello"
   put status
 end
+
+def any_phase
+  
